@@ -32,7 +32,7 @@ namespace PhoneBook
         }
     }
 
-    public class Contact
+    public class Contact//класс контакта
     {
         public Contact(string name, string lastName, long phoneNumber, string email) // конструктор
         {
